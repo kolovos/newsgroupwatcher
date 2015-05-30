@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Fri Dec 05 14:40:50 GMT 2008
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=eu.kolovos.newsgroupwatcher.jar
+manifest.mergeall=true
+manifest.mainclass=eu.kolovos.newsgroupwatcher.Application
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=

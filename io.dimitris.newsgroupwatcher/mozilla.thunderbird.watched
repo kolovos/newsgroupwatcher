@@ -1,0 +1,5 @@
+#Newsgroup configuration
+server=news.mozilla.org
+newsgroup=mozilla.support.thunderbird
+authenticationRequired=false
+interval=60000
